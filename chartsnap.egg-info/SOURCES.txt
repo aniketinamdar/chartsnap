@@ -1,0 +1,9 @@
+setup.py
+chartsnap/__init__.py
+chartsnap/main.py
+chartsnap.egg-info/PKG-INFO
+chartsnap.egg-info/SOURCES.txt
+chartsnap.egg-info/dependency_links.txt
+chartsnap.egg-info/entry_points.txt
+chartsnap.egg-info/requires.txt
+chartsnap.egg-info/top_level.txt

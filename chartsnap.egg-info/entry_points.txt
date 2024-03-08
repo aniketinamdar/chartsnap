@@ -1,0 +1,2 @@
+[console_scripts]
+chart-snap = chartsnap:get_chart

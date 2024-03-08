@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: chartsnap
+Version: 0.1
+Summary: Python module that scrapes tradingview charts when appropriate inputs are given.
+Author: Aniket Inamdar
+Author-email: aniketinamdar02@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
